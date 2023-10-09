@@ -6,4 +6,5 @@
 * Run with ./memo [arg]						
 * ./memo -h for help and instructions				
 * Author; Jonas Larsson 2022					
+*
 *****************************************************************/
