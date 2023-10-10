@@ -13,7 +13,7 @@ void helpFunc()
     {
     FILE *fp;
     int c;
-    fp = fopen(".help.md", "r");
+    fp = fopen("help.md", "r");
     while(c !=EOF){
         printf("%c", c);
         c = fgetc(fp);
